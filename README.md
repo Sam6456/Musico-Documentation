@@ -1,12 +1,6 @@
 <center>
   <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Musico&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"></img>
 </center>
-
-  <center>
-  <img src = "https://media.discordapp.net/attachments/947736847075917894/953909667204063252/discord-avatar-128-NTYWX.gif"></img>
-
- </center>
-
  <h1 align = "center">Musico</h1>
  <h3 align = "center">A advanced discord music bot</h3>
  <h4 align = "center"><a href = "https://discord.com/api/oauth2/authorize?client_id=952868926566580304&permissions=8&scope=bot%20applications.commands"
